@@ -1,4 +1,4 @@
-Google Analytics Website Performance Dashboard
+** Google Analytics Website Performance Dashboard **
 1. Problem Statement
 * The objective of this project was to analyze website performance and user acquisition patterns using a Google Analytics (GA4) dataset. Business stakeholders needed to understand which v    regions were driving the highest revenue and how user engagement varied across different states to optimize marketing resource allocation.
 
