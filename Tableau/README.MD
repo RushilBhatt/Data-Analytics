@@ -4,7 +4,7 @@
 
 2. Tools & Technical Process
 * Data Wrangling Conducted end-to-end data cleaning and preparation using Google Sheets, ensuring data integrity for dimensions like 'Region' and 'Revenue'.
-* Visualization Developed a multi-dimensional dashboard in Tableau utilizing geographic maps, treemaps, and heat matrices to visualize complex consumer behavior.
+* Visualization Developed a multi-dimensional dashboard in Tableau utilizing symbol map, bar chart, tree map & highlight table to visualize complex consumer behavior.
 * Calculated Fields Implemented custom logic to segment users and calculate market share percentages, specifically identifying that California accounts for 54.05% of total users.
 
 3. Key Insights & Business Recommendations
