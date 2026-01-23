@@ -11,3 +11,5 @@
 * Regional Dominance: California is the primary revenue driver, contributing the highest volume of transactions (9,230) and revenue distribution.
 * Market Share Concentration: Three states (California, Texas, and New York) represent over 83% of the analyzed user acquisition, suggesting a highly concentrated market.
 * Strategic Recommendation: Marketing efforts should be intensified in high-engagement regions like California to maximize ROI, while "State Level Engagement" metrics should be used to investigate why smaller markets have lower pages-per-session.
+
+![Dashboard Preview](Dashboard_1_(1).png)
