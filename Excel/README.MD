@@ -1,4 +1,4 @@
-** Analyzing Customer Churn in Excel
+## Analyzing Customer Churn in Excel
 - As a consultant your task is to analyze why customers are churning in other words leaving the company.
 - You will be using a fictitious churn dataset from a Telecom provider called Databel. 
 - This Databel dataset consists of different columns and has one row per customer.
