@@ -1,6 +1,6 @@
 # Google Analytics USA 2021: Dashboard Analysis
 
-**Business Context**
+### **Business Context**
 This project involves a comprehensive analysis of Google Analytics (GA4) data for the United States in 2021. The goal was to identify geographic revenue distribution, user acquisition patterns, and engagement metrics to provide actionable business recommendations.
 
 ### **Insights Discovered**
