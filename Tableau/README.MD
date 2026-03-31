@@ -29,3 +29,6 @@ Increase marketing spend in New York, Texas, and Washington to reduce the heavy 
 
 3. **Fix Engagement Gaps**
 Investigate why users in the South (e.g., Alabama) leave the site quickly—check for shipping costs or regional product relevance.
+
+---
+**Tools Used:** Tableau, Google Analytics (GA4)
