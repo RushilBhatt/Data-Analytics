@@ -28,8 +28,8 @@ This project analyzes a churn dataset from a fictitious Telecom provider, Databe
 
 ### **Recommended Actions**
 
-1. **Targeted Onboarding:** Focus retention efforts on the "Month 1" window to guide new users through the platform and reduce the 62% early-drop-off rate.
-2. **Plan Optimization:** Review the value proposition of the "Unlimited Plan" for low-data users (<5GB). Transitioning these users to a more cost-effective, tiered plan may increase loyalty.
-3. **Incentivize Long-term Contracts:** Offer discounts or loyalty perks to move monthly subscribers toward 1-year or 2-year contracts to stabilize the user base.
-4. **International Plan Audit:** Proactively reach out to customers in California with inactive international plans to offer a plan downgrade or a usage credit before they churn.
-
+1.  **Senior Advocacy Initiative:** Reduce the churn rate by launching a dedicated "Priority Support" line and simplifying billing statements to improve accessibility and brand loyalty among older demographics.
+2. **Targeted Onboarding:** Focus retention efforts on the "Month 1" window to guide new users through the platform and reduce the 62% early-drop-off rate.
+3. **Plan Optimization:** Review the value proposition of the "Unlimited Plan" for low-data users (<5GB). Transitioning these users to a more cost-effective, tiered plan may increase loyalty.
+4. **Incentivize Long-term Contracts:** Offer discounts or loyalty perks to move monthly subscribers toward 1-year or 2-year contracts to stabilize the user base.
+5. **International Plan Audit:** Proactively reach out to customers in California with inactive international plans to offer a plan downgrade or a usage credit before they churn.
