@@ -5,16 +5,16 @@ This project involves a comprehensive analysis of Google Analytics (GA4) data fo
 
 ### **Insights Discovered**
 
-**Revenue Distribution**
+#### **Revenue Distribution**
 Most revenue is concentrated in Calfornia, Washington & New York, leaving the middle of the country mostly untapped.
 
-**Order Volume**
+#### **Order Volume**
 California is the powerhouse. It recorded 9,230 transactions, nearly 5x more than the next closest state, New York.
 
-**User Acquisition**
+#### **User Acquisition**
 Over 54% of all users come from just one state—California—showing a high dependency on a single geographic market.
 
-**User Engagement**
+#### **User Engagement**
 California and Colorado have the most engaged users (7–8 pages per visit), while users in states like Alabama only view 4 pages.
 
 ---
