@@ -3,6 +3,8 @@
 ### **Business Context**
 This project involves a comprehensive analysis of Google Analytics (GA4) data for the United States in 2021. The goal was to identify geographic revenue distribution, user acquisition patterns, and engagement metrics to provide actionable business recommendations.
 
+---
+
 ### **Insights Discovered**
 
 #### **Revenue Distribution**
@@ -31,4 +33,5 @@ Increase marketing spend in New York, Texas, and Washington to reduce the heavy 
 Investigate why users in the South (e.g., Alabama) leave the site quickly—check for shipping costs or regional product relevance.
 
 ---
+
 **Tools Used:** Tableau, Google Analytics (GA4)
