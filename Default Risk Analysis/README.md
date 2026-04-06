@@ -83,4 +83,5 @@ This project identifies key drivers of default risk and translates them into act
 - Jupyter Notebook
 
 ## Project Link
-[![View Notebook](https://img.shields.io/badge/Rendered%20with-nbviewer-orange.svg)](https://nbviewer.org/github/RushilBhatt/Data-Analytics/blob/main/Default%20Risk%20Analysis/Default-Risk-Analysis.ipynb)
+### 📊 Project Analysis
+**[Click this link for the full project analysis](https://nbviewer.org/github/RushilBhatt/Data-Analytics/blob/main/Default%20Risk%20Analysis/Default-Risk-Analysis.ipynb)**
