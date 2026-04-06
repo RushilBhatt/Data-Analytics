@@ -1,23 +1,35 @@
  # Medical Diagnosis Problem using Classification
 
-## Objective
-1–2 lines: what problem you are solving
+## Business Context
+Identifying diabetes is a complex, multi-factor challenge where manual analysis of various clinical tests can lead to diagnostic inaccuracies. The objective is to develop a machine learning classification model that accurately detects the presence of diabetes to enhance diagnostic reliability for healthcare professionals.
+
+--- 
 
 ## Dataset
-Source + brief description
+Contains 8 medical analyst variables & 1 variable known as 'Outcome'.The ‘outcome’ is the feature that is  predicted where - ‘0’ means
+no diabetes ‘1’ means diabetes.
+
+--- 
 
 ## Approach
-- Data cleaning
-- EDA
-- Analysis
+- Data Exploration
+   - Checking data type
+   - Checking null values per column
+- Data Cleaning
+   - Performing missing value imputation
+   - Peforming outlier analysis
+- Data Visualization
+   - Segmented Univariate Analysis
 
-## Key Insights
-- Insight 1
-- Insight 2
-- Insight 3
+--- 
+
+## Predictive Analytics
+- Different classification algoirthms used to determine which one works best in predicting diabetes accurately.
+- Algorithms used are KNN, Decision Tree & Random Forest.
+- The algorithms are evaluated using metrics such as accuracy, precision, recall, F1-score & confusion matrix.
+- Random Forest outperforms the others in all metrics — highest accuracy, precision, recall, and F1-score.
+
+--- 
 
 ## Tools Used
 Python, Pandas, SQL, Power BI, etc.
-
-## Output
-Dashboard / notebook / report link
