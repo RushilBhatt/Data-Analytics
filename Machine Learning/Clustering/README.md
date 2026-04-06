@@ -24,7 +24,7 @@ cardholders into target groups to enable personalized financial recommendations 
 - Based on the customer profiling, it was found that cluster 0 are premium & active customers who make higher & more often purchases 
   with a high account balance while cluster 1 are are less engaged customers who make lower & less often purchases with a moderate 
   account balance.
-- Based on the insights, XYZ Marketing should invest in invest in customers to keep them loyal for cluster 0 while they should focus 
+- Based on the insights, XYZ Marketing should invest in customers to keep them loyal for cluster 0 while they should focus 
   on increasing the usage of customers in cluster 1.
 
 ## Tools Used
