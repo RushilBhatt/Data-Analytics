@@ -24,7 +24,7 @@ The core objectives of this analysis are to:
 - Star Schema Modelling: Developed Star Schema modelling using Fact table (fact_sales) & Dimension tables (dim_customer, dim_date &
   dim_product).
 - Business Intelligence Layer: Validated business objectives directly in SQL.
-- Exploratory Analytics: Validate findings & explore quick-level insights.
+- Exploratory Analytics: Validate findings & explore quick-level insights in Excel.
 - Executive Dashboard: Developed pages including executive overview, product performance, discount optimization & customer insights.
 
 ## 📌 Executive Overview (2017 Audit)
