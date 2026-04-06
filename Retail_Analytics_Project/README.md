@@ -13,6 +13,20 @@ The core objectives of this analysis are to:
 
 ---
 
+## Dataset
+- 'Sample - Superstore.csv': Contains customer demographics, product hierarchies, and geographic data alongside core financial metrics: Sales, Quantity, Discount, and Profit.
+
+---
+
+## Approach
+- Data Exploration & Cleaning: Used Python (Pandas) to check null values per column, duplicate values, outlier analysis.
+- ETL Data Migration: Developed Python ETL script to automate data migration into staging table.
+- Star Schema Modelling: Developed Star Schema modelling using Fact table (fact_sales) & Dimension tables (dim_customer, dim_date &
+  dim_product).
+- Business Intelligence Layer: Validated business objectives directly in SQL.
+- Exploratory Analytics: Validate findings & explore quick-level insights.
+- Executive Dashboard: Developed pages including executive overview, product performance, discount optimization & customer insights.
+
 ## 📌 Executive Overview (2017 Audit)
 In 2017, the business saw a significant **divergence between volume and value**. While Sales and Orders grew by **3.43%** and **16.63%** respectively, the bottom line told a different story: **Profit dropped by 4.27%** and **Margins eroded by 7.61%**.
 
