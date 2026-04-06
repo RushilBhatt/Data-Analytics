@@ -28,6 +28,9 @@ no diabetes ‘1’ means diabetes.
 - Algorithms used are KNN, Decision Tree & Random Forest.
 - The algorithms are evaluated using metrics such as accuracy, precision, recall, F1-score & confusion matrix.
 - Random Forest outperforms the others in all metrics — highest accuracy, precision, recall, and F1-score.
+- Decision Tree performs worst, with low recall and F1-score, meaning it misses too many diabetic patients.
+- Final Recommendation: Random Forest should be chosen as the best model for diabetes prediction, as it provides the most balanced and
+  reliable performance.
 
 --- 
 
