@@ -25,6 +25,7 @@ for each property ID in the dataset.
 - Used various regression algorithms such as Linear Regression, Lasso Regression & Random Forest Regression to predict the best house
   sale price.
 -  Since Lasso Regression gives the lowest RMSE, it was used to predict the house sale price.
+-  The model achieved a public RMSE of 14,632 on the Kaggle test set, which satisfies the assignment requirement of RMSE below 15,400
 
 ## Tools Used
 Python, Pandas
