@@ -8,11 +8,11 @@ This project identifies key drivers of default risk and translates them into act
 
 ## Dataset
 - Contains 3 files:
-- 'application_data_csv': contains all information of the client at the time of the application. The data is whether a
-    client has payment difficulties. 
-- 'previous_application.csv' contains information about the client’s previous loan data. It contains the data whether the previous
-   application had been Approved, Cancelled, Refused or Unused offer
-- 'columns_description.csv' is a data dictionary which describes the meaning of the variables.
+   - 'application_data_csv': contains all information of the client at the time of the application. The data is whether a
+      client has payment difficulties. 
+   - 'previous_application.csv' contains information about the client’s previous loan data. It contains the data whether the previous
+      application had been Approved, Cancelled, Refused or Unused offer
+   - 'columns_description.csv' is a data dictionary which describes the meaning of the variables.
 
 ---
 
