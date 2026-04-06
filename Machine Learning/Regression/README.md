@@ -6,7 +6,7 @@ market prices. The objective is to develop a machine learning regression model t
 for each property ID in the dataset.
 
 ## Dataset
-Source + brief description
+- 'regression.csv': Contains numerical feature sets of a housing dataset, used to predict sale prices by analyzing property dimensions,       structural quality, and historical transaction data.
 
 ## Approach
 - Data Exploration
