@@ -1,8 +1,9 @@
 # Retail Data Analytics Dashboard: 2017 Performance Audit
 
-## 🎯 Business Problem & Objectives
+## 🎯 Business Context
 A Superstore operating across multiple regions is facing increasing competition and margin pressure. Management requires data-backed insights to transition from high-volume growth to **profitable growth**. 
 
+## Objectives
 The core objectives of this analysis are to:
 * **Identify High-Performing Products:** Determine which items drive the most value.
 * **Identify Loss-Making Categories:** Pinpoint where the business is bleeding margin.
