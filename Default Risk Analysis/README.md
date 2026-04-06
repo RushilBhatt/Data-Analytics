@@ -28,8 +28,7 @@ This project identifies key drivers of default risk and translates them into act
   - Performed outlier analysis
   - Performed feature binning
 
-
- - **Data Visualization**
+- **Data Visualization**
   - Segmented Univariate Analysis  
   - Segmented Bivariate Analysis  
   - Segmented Multivariate Analysis
