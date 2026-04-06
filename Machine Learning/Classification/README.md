@@ -35,4 +35,4 @@ no diabetes ‘1’ means diabetes.
 --- 
 
 ## Tools Used
-Python, Pandas, SQL, Power BI, etc.
+Python, Pandas
