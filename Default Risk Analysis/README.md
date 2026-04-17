@@ -40,38 +40,39 @@ This project identifies key drivers of default risk and translates them into act
 
 ---
 
-## Key Insights
+## 💡 Key Insights
 
-- **Employment is a strong risk indicator**  
-  Unemployment, maternity leave, and low-skill jobs show higher default risk, while stable professions (accountants, pensioners, businessmen) show lower risk.
+Based on the multi-factor risk analysis, the following trends were identified:
 
-- **Credit score and loan type are critical factors**  
-  Low external credit scores strongly correlate with defaults. Cash loans (especially for apartments) carry higher risk than revolving loans.
-
-- **Demographics influence repayment behavior**  
-  Larger households and lower education levels are associated with higher default rates, while degree holders and smaller households show lower risk.
+* **🎓 Education as a Shield:** Higher educational attainment (Academic Degrees) is the strongest predictor of financial resilience. It effectively offsets risk even during volatile life events like unemployment or maternity leave.
+* **🏆 The Reliability Leaders:** **Accountants** and **Pensioners** are the most stable borrowers across all income levels. Among female applicants, **Widows** consistently demonstrate the most disciplined repayment behavior.
+* **🏢 Housing over Ownership:** Interestingly, applicants residing in **Office or Municipal apartments** show higher reliability than those in private rentals or general home ownership.
+* **⚠️ The Asset Paradox:** Owning physical assets (cars/property) does **not** guarantee repayment. For unemployed applicants or those with poor credit history, behavioral data is a much stronger predictor than collateral.
+* **💍 Marital Proxies:** "Civil Marriage" status, particularly in lower income brackets, tends to correlate with less conservative financial planning compared to traditional marital statuses.
 
 ---
 
-## Credit Risk Policy Summary
+## 🛡️ Credit Risk Policy Summary
 
-### Decline
-- Unemployed applicants  
-- Low external credit score (Q1_Low)  
-- Cash loans for apartments  
-- Lower secondary education in high-risk segments  
+To optimize the portfolio, the following "Traffic Light" policy is recommended:
 
-### Review
-- Low-skill occupations  
-- Large households / complex family structures  
-- Cash loan applications requiring higher collateral  
-- Asset-backed unemployed applicants (manual review required)  
+### 🛑 1. Mandatory Decline (High Risk)
+* **Unemployment:** Applicants without steady income, especially those with lower secondary education.
+* **Low External Scores:** Any applicant falling into the **Q1_Low** bracket.
+* **High-Risk Combinations:** Cash loans for apartments or "Civil Marriage" applicants seeking real estate/car repair funding.
+* **History:** Applicants in rented housing with a history of **"Refused"** or **"Cancelled"** contracts.
 
-### Approve
-- Stable employment groups (pensioners, accountants, businessmen, students)  
-- Academic degree holders  
-- High external credit score applicants (Q4_High)  
-- Revolving loans with stable housing profiles  
+### ⚠️ 2. Manual Review & Mitigation (Moderate Risk)
+* **Household Strain:** Large families (5+ members) require stricter Debt-to-Income (DTI) checks or a **co-signer**.
+* **Asset-Backed Unemployed:** Applicants with no job but high-value assets must undergo **manual review** for fully secured lending options.
+* **Role Volatility:** Specific roles like **Commercial Associates**, even those with degrees, require secondary verification due to income fluctuation.
+* **Collateral Requirements:** Cash loan applications in mid-tier segments require **higher collateral** or insurance flags.
+
+### ✅ 3. Instant Approval (Low Risk)
+* **The "Safe" Professionals:** Accountants, State Servants, Businessmen, and Pensioners.
+* **High Resilience:** Academic degree holders and applicants with high external credit scores (**Q4_High**).
+* **Stable Demographics:** Small households (0–2 members) and female widows.
+* **Product Fit:** **Revolving loans** for applicants with stable housing profiles (Office/Municipal).
 
 ---
 
