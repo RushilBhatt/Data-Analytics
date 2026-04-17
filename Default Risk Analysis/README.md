@@ -83,4 +83,4 @@ This project identifies key drivers of default risk and translates them into act
 
 ## Project Link
 ### 📊 Project Analysis
-**[Click this link for the full project analysis](https://nbviewer.org/github/RushilBhatt/Data-Analytics/blob/main/Default%20Risk%20Analysis/Default-Risk-Analysis.ipynb)**
+**[Click this link for the full project analysis](https://nbviewer.org/github/RushilBhatt/Data-Analytics/blob/fe491c7c6acfd3054314c769d0760c31b53776af/Default%20Risk%20Analysis/Default-Risk-Analysis.ipynb)**
