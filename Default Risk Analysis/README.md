@@ -47,7 +47,7 @@ Based on the multi-factor risk analysis, the following trends were identified:
 * **🎓 Education as a Shield:** Higher educational attainment (Academic Degrees) is the strongest predictor of financial resilience. It effectively offsets risk even during volatile life events like unemployment or maternity leave.
 * **🏆 The Reliability Leaders:** **Accountants** and **Pensioners** are the most stable borrowers across all income levels. Among female applicants, **Widows** consistently demonstrate the most disciplined repayment behavior.
 * **🏢 Housing over Ownership:** Interestingly, applicants residing in **Office or Municipal apartments** show higher reliability than those in private rentals or general home ownership.
-* **⚠️ The Asset Paradox:** Owning physical assets (cars/property) does **not** guarantee repayment. For unemployed applicants or those with poor credit history, behavioral data is a much stronger predictor than collateral.
+* **⚠️ The Asset Paradox:** Possessions don't equal payments. Just because someone owns a car or house doesn't mean they are a safe borrower. A person's track record (behavior) is a much better predictor of risk than the physical things they own.
 * **💍 Marital Proxies:** "Civil Marriage" status, particularly in lower income brackets, tends to correlate with less conservative financial planning compared to traditional marital statuses.
 
 ---
