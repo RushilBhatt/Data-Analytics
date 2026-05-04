@@ -17,7 +17,7 @@ no diabetes ‘1’ means diabetes.
    - Checking null values per column
 - Data Cleaning
    - Performing missing value imputation
-   - Peforming outlier analysis
+   - Performing outlier analysis
 - Data Visualization
    - Segmented Univariate Analysis
 
