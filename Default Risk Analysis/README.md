@@ -84,4 +84,4 @@ To optimize the portfolio, the following "Traffic Light" policy is recommended:
 
 ## Project Link
 ### 📊 Project Analysis
-**[Click this link for the full project analysis](https://nbviewer.org/github/RushilBhatt/Data-Analytics/blob/fe491c7c6acfd3054314c769d0760c31b53776af/Default%20Risk%20Analysis/Default-Risk-Analysis.ipynb)**
+**[Click this link for the full project analysis](https://colab.research.google.com/drive/15FftuDtnAFqoVzh0LeEodeYFRfQywmo4?hl=en-GB)**
