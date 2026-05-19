@@ -1,4 +1,4 @@
-# Retail Data Analytics Dashboard: 2017 Performance Audit
+# Retail Data Analytics Dashboard (Superstore Performance Audit)
 
 ## 🎯 Business Context
 A Superstore operating across multiple regions is facing increasing competition and margin pressure. Management requires data-backed insights to transition from high-volume growth to **profitable growth**. 
