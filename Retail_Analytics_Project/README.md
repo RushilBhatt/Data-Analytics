@@ -49,7 +49,7 @@ In 2017, the business saw a significant **divergence between volume and value**.
 
 ### 2. Discount Optimization
 * **The Furniture Trap:** High Discounts (**30%+**) are the direct cause of negative profit in the Furniture category.
-* **The Copier Strategy:** Copier products contribute a **37% profit margin** when no discount is applied. Even under aggressive discounting (30%+), they only experience a minor margin dip of **8.85%**.
+* **The Technology Strategy:** Technology category contribute a **47.69% profit margin** when no discount is applied. Even under aggressive discounting (30%+), they still contribute a profit mar of **11.67%**.
 
 ### 3. Customer Concentration Analysis
 * **The Loss Drivers:** Just two customers—**Dean Percer & Ross Baird**—account for **54.38%** of the total loss in the Furniture category. 
