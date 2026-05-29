@@ -33,7 +33,7 @@ In 2017, the business saw a significant **divergence between volume and value**.
 ### 🔴 Critical Risk Areas (The "Bleed")
 * **Regional Impact:** The **South** region experienced the most severe profit margin decline compared to 2016.
 * **Segment Focus:** The **Home Office** segment drove a **54.56%** margin drop.
-* **Category Focus:** **Furniture** was the primary detractor, with a localized margin collapse of **-663.95%**.
+* **Category Focus:** **Furniture** was the primary drain on profitability, with a localized margin collapse of **-663.95%**.
 
 ### 🟢 Strategic Successes (The "Growth Engine")
 * **Regional Hero:** The **East** region maintained healthy growth across Sales, Profit, and Orders, particularly within the **Consumer** segment.
