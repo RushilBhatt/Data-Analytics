@@ -53,7 +53,7 @@ In 2017, the business saw a significant **divergence between volume and value**.
 
 ### 3. Customer Concentration Analysis
 * **The Loss Drivers:** Just two customers—**Dean Percer & Ross Baird**—account for **54.38%** of the total loss in the Furniture category. 
-* **The Value Drivers:** Conversely, **Raymond Buch & Hunter Lopez** contribute **85.67%** of total profit, highlighting a high dependency on a small group of high-value accounts.
+* **The Value Drivers:** Conversely, **Raymond Buch & Hunter Lopez** contribute **63.77%** of total profit, highlighting a high dependency on a small group of high-value accounts.
 
 ---
 
