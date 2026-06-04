@@ -9,7 +9,7 @@ This project analyzes a churn dataset from a fictitious Telecom provider, Databe
 
 #### **Customer Demographics & Behavior**
 * **Age & Competition:** Senior customers (age 85+) and those lured by competitors with better offers show the highest churn rates at **52%** and **16.87%** respectively.
-* **Social Factors:** Customers who are not part of a group plan exhibit a significantly higher churn rate (**33.49%**) compared to those in a group (**22%**).
+* **Social Factors:** Customers who are not part of a group plan exhibit a significantly higher churn rate (**32.85%**) compared to those in a group (**6-8%**).
 
 #### **Contract & Payment Terms**
 * **Contract Length:** Monthly contract holders are the highest risk group, with a churn rate **6 to 7 times higher** than customers on yearly contracts.
