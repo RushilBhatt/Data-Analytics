@@ -8,7 +8,7 @@ This project involves a comprehensive analysis of Google Analytics (GA4) data fo
 ### **Insights Discovered**
 
 #### **Revenue Distribution**
-Most revenue is concentrated in Calfornia, Washington & New York, leaving the middle of the country mostly untapped.
+Most revenue is concentrated in Calfornia, Washington, Texas & New York, leaving the middle of the country mostly untapped.
 
 #### **Order Volume**
 California is the powerhouse. It recorded 9,230 transactions, nearly 5x more than the next closest state, New York.
