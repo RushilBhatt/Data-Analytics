@@ -17,7 +17,7 @@ California is the powerhouse. It recorded 9,230 transactions, nearly 5x more tha
 Over 54% of all users come from just one state—California—showing a high dependency on a single geographic market.
 
 #### **User Engagement**
-California and Colorado have the most engaged users (7–8 pages per visit), while users in states like Alabama only view 4 pages.
+Washington and California have the most engaged users (8-9 pages per visit), while users in states like Alabama only view 4 pages.
 
 ---
 
