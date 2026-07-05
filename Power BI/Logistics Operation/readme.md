@@ -6,7 +6,6 @@ In global logistics, tracking volume and transport milestones is critical to man
 ## Dataset 
 - Contains 3 files:
   - 'Jobs_Raw.csv':Represents the overarching booking or master operational file for a specific voyage, project, or transport consolidation.
-     * `Job_No` *(Primary Key / Unique Identifier)*: The master tracking number for the job.
   - 'Shipments_Raw.csv':Represents the specific commercial cargo belonging to individual customers, grouped underneath an overarching
      operational job.
   - 'Containers_Raw.csv':Tracks the physical metal intermodal equipment moving on ships or rail. Used to audit and cross-verify actual
