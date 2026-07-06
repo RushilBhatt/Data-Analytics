@@ -27,6 +27,6 @@ In global logistics, tracking volume and transport milestones is critical to man
 
 ## Insights
 
-*   **2025 Volume Dominance & Forecasting Risk:** 2025 dominates shipment volume, contributing about **7x more total TEU** compared to 2026. The higher missing TEU in 2025 compared to 2026 does not contradict the higher total TEU, as missing values are independent of aggregate volume. 2025 has a larger shipment base, resulting in both higher absolute missing counts and higher total TEU.
+*   **2025 Volume Dominance** 2025 dominates shipment volume, contributing about **7x more total TEU** compared to 2026. The higher missing TEU in 2025 compared to 2026 does not contradict the higher total TEU, as missing values are independent of aggregate volume. 2025 has a larger shipment base, resulting in both higher absolute missing counts and higher total TEU.
 *   **Severe Capacity & Operational Bottlenecks:** Cargo marked with a **"Shut Out"** status represents the single largest operational category at **27.88%**.
 *   **System Integration & Relational Gaps:** A baseline of **9.17% of shipments are classified as "Orphan" records**, meaning they lack a valid parent `Job_No` link. While the majority of shipments are properly matched, this gap highlights weaknesses in data linkage. Immediate focus should be on improving data completeness and system integration to enhance reporting accuracy and reduce orphan counts. 
